@@ -1,4 +1,4 @@
-module gofiber
+module github.com/elijer/gofiber
 
 go 1.21.5
 
